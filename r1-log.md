@@ -31,12 +31,13 @@ Thoughts: I am starting to see how the nuts and bolts of things come together. T
 
 Link to work: Private Repository (For now) 
 
-### R1D4
-Day 2: October 17th, 2020 - Saturday
 
-Today's Progress: Time to read some csvs. Just laid part of the foundation since today has been extremely long.
+### R1D5
+Day 2: October 18th, 2020 - Sunday
 
-Thoughts: Very tired. I will have to review to make sure I retain what gets written tonight.
+Today's Progress: Read more about CSVs. Learned how to open a file in Node.
+
+Thoughts: I wasn't able to give coding my all today. A bit disappointed but very much fuel for doing great work tomorrow.
 
 Link to work: Private Repository (For now) 
 
