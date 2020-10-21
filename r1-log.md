@@ -31,13 +31,42 @@ Thoughts: I am starting to see how the nuts and bolts of things come together. T
 
 Link to work: Private Repository (For now) 
 
+### R1D4
+Day 4: October 17th, 2020 - Saturday 
+
+Today's Progress: Not much.
+
+Thoughts: I tried. Long day, almost fell asleep staring at the screen.
+
+Link to work: Private Repository (For now) 
+
 
 ### R1D5
-Day 2: October 18th, 2020 - Sunday
+Day 5: October 18th, 2020 - Sunday
 
 Today's Progress: Read more about CSVs. Learned how to open a file in Node.
 
 Thoughts: I wasn't able to give coding my all today. A bit disappointed but very much fuel for doing great work tomorrow.
 
 Link to work: Private Repository (For now) 
+
+
+### R1D6
+Day 6: October 19th, 2020 - Monday
+
+Today's Progress: I broke something, working back to figure out why.
+
+Thoughts: I am on the right track but need to stay focused on the task at hand.
+
+Link to work: Private Repository (For now) 
+
+### R1D7
+Day 7: October 20th, 2020 - Tuesday
+
+Today's Progress: Wrote a bunch of DB schema in preparation for csv migration.
+
+Thoughts: Writing the schema made me think of some new ideas to incorporate down the line. Nice! 
+
+Link to work: Private Repository (For now) 
+
 
